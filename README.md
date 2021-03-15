@@ -3,14 +3,14 @@
 ## Sobre mim
 🎓 Graduando em Sistemas de Informação  
 ☕ Focada em aprender Java/React  
-📲 Amante do desenvolvimento back-end 
+📲 Amante do desenvolvimento back-end <br>
 📚 Atualmente estudando Angular com SpringBoot
 
 ## Hobbies
-⚽ Amo jogar bola
-🏃‍Aquela corridinha marota
-🍻 Podem me chamar para um churrasco com pagode  
-💻 Jogador de E-sports!
+⚽ Amo jogar bola <br>
+🏃‍Aquela corridinha marota <br>
+🍻 Podem me chamar para um churrasco com pagode <br>  
+💻 Jogador de E-sports! <br>
   
 
 
