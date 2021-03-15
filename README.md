@@ -9,7 +9,7 @@
 ## Hobbies
 ⚽ Amo jogar bola <br>
 🏃‍Aquela corridinha marota <br>
-🍻 Podem me chamar para um churrasco com pagode <br>  
+🍻 Podem me chamar para um churrasco com pagode
 💻 Jogador de E-sports!
   
 
