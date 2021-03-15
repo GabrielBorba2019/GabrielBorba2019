@@ -10,7 +10,7 @@
 ⚽ Amo jogar bola <br>
 🏃‍Aquela corridinha marota <br>
 🍻 Podem me chamar para um churrasco com pagode <br>  
-💻 Jogador de E-sports! <br>
+💻 Jogador de E-sports!
   
 
 
