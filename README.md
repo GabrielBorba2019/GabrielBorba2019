@@ -1,4 +1,18 @@
-### Hi there 👋
+### 👋 Olá, me chamo Gabriel Borba e sou também conhecido como Borba.
+
+## Sobre mim
+🎓 Graduando em Sistemas de Informação  
+☕ Focada em aprender Java/React  
+📲 Amante do desenvolvimento back-end 
+📚 Atualmente estudando Angular com SpringBoot
+
+## Hobbies
+⚽ Amo jogar bola
+🏃‍Aquela corridinha marota
+🍻 Podem me chamar para um churrasco com pagode  
+💻 Jogador de E-sports!
+  
+
 
 <!--
 **GabrielBorba2019/GabrielBorba2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
