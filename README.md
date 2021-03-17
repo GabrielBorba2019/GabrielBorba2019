@@ -2,7 +2,7 @@
 
 ## Sobre mim
 🎓 Graduando em Sistemas de Informação  
-☕ Focada em aprender Java/React  
+☕ Focada em aprender Java/React/SpringBoot
 📲 Amante do desenvolvimento back-end <br>
 📚 Atualmente estudando Angular com SpringBoot
 
